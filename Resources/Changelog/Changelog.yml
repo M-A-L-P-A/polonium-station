@@ -1,22 +1,4 @@
 ﻿Entries:
-- author: Nox38
-  changes:
-  - message: Renamed riot bullet shield to ballistic shield
-    type: Tweak
-  - message: Renamed riot laser shield to ablative shield
-    type: Tweak
-  id: 7885
-  time: '2025-01-31T23:39:22.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34794
-- author: Nox38
-  changes:
-  - message: Set Marathon's max secoffs to 8.
-    type: Tweak
-  - message: Restocked Marathon's armory.
-    type: Tweak
-  id: 7886
-  time: '2025-02-01T06:32:42.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34798
 - author: ToxicSonicFan04
   changes:
   - message: Added Sink to Chemistry on Box Station!
@@ -4074,3 +4056,17 @@
   id: 9192
   time: '2026-05-11T07:35:26.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/573
+- author: Zintex
+  changes:
+  - message: "Resprite \u015Bluz wo\u017Anego"
+    type: Tweak
+  id: 9193
+  time: '2026-05-15T07:42:59.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/581
+- author: Zintex
+  changes:
+  - message: "Dodano rol\u0119 Szkoleniowiec Kadr Nanotrasen"
+    type: Add
+  id: 9194
+  time: '2026-05-15T07:42:44.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/582
