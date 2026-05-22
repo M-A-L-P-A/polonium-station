@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: NazrinNya
-  changes:
-  - message: Flesh Kudzu now contains razorium, making it unsafe to eat.
-    type: Tweak
-  id: 7888
-  time: '2025-02-01T12:10:20.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/32821
 - author: Boaz1111
   changes:
   - message: 'New Reagent: Coldsauce! It can be made using the Frost Oil from Chilly
@@ -4073,3 +4066,10 @@
   id: 9195
   time: '2026-05-17T17:46:06.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/584
+- author: Elperson
+  changes:
+  - message: "Usuni\u0119to fundusz atmosferyczny"
+    type: Remove
+  id: 9196
+  time: '2026-05-22T07:09:32.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/583
