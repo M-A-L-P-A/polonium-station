@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: slarticodefast
-  changes:
-  - message: Added binoculars. You can find them in maints loot and the warden's locker.
-    type: Add
-  id: 7898
-  time: '2025-02-04T21:46:50.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34687
 - author: Spacemann
   changes:
   - message: Added 4 randomized maintenance rooms to in Convex station. These will
@@ -4101,3 +4094,10 @@
   id: 9205
   time: '2026-05-27T09:25:10.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/601
+- author: Zintex
+  changes:
+  - message: "Dodano now\u0105 map\u0119: Kolonia Terra."
+    type: Add
+  id: 9206
+  time: '2026-05-28T08:05:46.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/602
