@@ -10,6 +10,7 @@
 
 - type: dataset
   id: verbs
+  values:
   - przyją
   - doda
   - podziwia
