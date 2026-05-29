@@ -55,6 +55,8 @@
   id: DefaultMapPool
   maps: #funkystation
   # low pop
+  - DeathStar
+  - Terra
   - Cluster
   - Saltern
   - Cork
