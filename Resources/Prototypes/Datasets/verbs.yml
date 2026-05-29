@@ -11,11 +11,8 @@
 - type: dataset
   id: verbs
   values:
-<<<<<<< HEAD
   - przyją
-=======
   - pobłogosław
->>>>>>> 4b20e320393df5f0ca72f7c3995cf37b97fba6de
   - doda
   - podziwia
   - przyznawa
